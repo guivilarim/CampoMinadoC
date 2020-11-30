@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1542660763 source:c:\users\hiper tacaruna\desktop\nova pasta (2)\campominadoprojeto\instrucoes.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+
+1542574227 source:c:\users\hiper tacaruna\desktop\nova pasta (2)\campominadoprojeto\jogo.c
+
+1542657163 source:c:\users\hiper tacaruna\desktop\nova pasta (2)\campominadoprojeto\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	"menu.h"
+
+1542657163 c:\users\hiper tacaruna\desktop\nova pasta (2)\campominadoprojeto\menu.h
+
+1542660763 source:c:\users\hiper tacaruna\desktop\nova pasta (2)\campominadoprojeto\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	"instrucoes.h"
+	"campos.h"
+
+1542660763 c:\users\hiper tacaruna\desktop\nova pasta (2)\campominadoprojeto\instrucoes.h
+
+1542660763 c:\users\hiper tacaruna\desktop\nova pasta (2)\campominadoprojeto\campos.h
+
+1542672513 source:c:\users\hiper tacaruna\desktop\nova pasta (2)\campominadoprojeto\campos.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+
