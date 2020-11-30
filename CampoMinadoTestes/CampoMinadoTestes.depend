@@ -1,0 +1,62 @@
+# depslib dependency file v1.0
+1591662462 source:c:\users\hiper tacaruna\desktop\nova pasta (2)\campominadotestes\campo.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<string.h>
+	<time.h>
+	"ranking.h"
+	"menu.h"
+
+1543104247 c:\users\hiper tacaruna\desktop\nova pasta (2)\campominadotestes\menu.h
+
+1543533481 source:c:\users\hiper tacaruna\desktop\nova pasta (2)\campominadotestes\instrucoes.c
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	"menu.h"
+
+1543533481 source:c:\users\hiper tacaruna\desktop\nova pasta (2)\campominadotestes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	"menu.h"
+
+1591662473 source:c:\users\hiper tacaruna\desktop\nova pasta (2)\campominadotestes\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+
+1543533728 source:c:\users\hiper tacaruna\desktop\nova pasta (2)\campominadotestes\niveis.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	"menu.h"
+	"campo.h"
+
+1591662462 c:\users\hiper tacaruna\desktop\nova pasta (2)\campominadotestes\campo.h
+
+1543533709 c:\users\hiper tacaruna\desktop\nova pasta (2)\campominadotestes\ranking.h
+
+1543533709 source:c:\users\hiper tacaruna\desktop\nova pasta (2)\campominadotestes\timer.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	"ranking.h"
+
+1543533743 source:c:\users\hiper tacaruna\desktop\nova pasta (2)\campominadotestes\ranking.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	"menu.h"
+	"ranking.h"
+
